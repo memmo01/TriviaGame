@@ -5,15 +5,6 @@ var incorrect = 0;
 var num = 26;
 
 
-
-// $("#complete").html("<img src= Super-Mario.gif>");
-	
-
-
-
-// $(".start-button").on("click", run);
-
-
 function run() {
       intervalId = setInterval(decrement, 1000);
     }
