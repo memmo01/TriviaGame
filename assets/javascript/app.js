@@ -34,19 +34,19 @@ run();
 
 
 	$(".q-one-a-one").on("click", function(){
-		$("#questionOneContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionOneContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		correct ++;
 		$("#wins").html("correct answer" + correct);
 	} )
 
 
 	$(".q-one-a-two").on("click", function(){
-		$("#questionOneContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionOneContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		incorrect ++;
 	})
 
 	$(".q-one-a-three").on("click", function(){
-		$("#questionOneContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionOneContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		incorrect ++;
 	})
 
@@ -70,12 +70,12 @@ $(".q-two-a-one").on("click", function(){
 	})
 
 	$(".q-two-a-three").on("click", function(){
-		$("#questionTwoContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionTwoContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		correct ++;
 	})
 
 	$(".q-two-a-four").on("click", function(){
-		$("#questionTwoContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionTwoContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		incorrect ++;
 	})
 
@@ -88,60 +88,60 @@ $(".q-three-a-one").on("click", function(){
 
 
 	$(".q-three-a-two").on("click", function(){
-		$("#questionThreeContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionThreeContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		incorrect ++;
 	})
 
 	$(".q-three-a-three").on("click", function(){
-		$("#questionThreeContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionThreeContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		incorrect ++;
 	})
 
 	$(".q-three-a-four").on("click", function(){
-		$("#questionThreeContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionThreeContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		correct ++;
 	})
 
 //this is the fourth group of questions
 $(".q-four-a-one").on("click", function(){
-		$("#questionFourContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionFourContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		correct ++;
 	
 	} )
 
 	$(".q-four-a-two").on("click", function(){
-		$("#questionFourContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionFourContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		incorrect ++;
 	})
 
 	$(".q-four-a-three").on("click", function(){
-		$("#questionFourContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionFourContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		incorrect ++;
 	})
 
 	$(".q-four-a-four").on("click", function(){
-		$("#questionFourContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionFourContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		incorrect ++;
 	})
 
 $(".q-five-a-one").on("click", function(){
-		$("#questionFiveContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionFiveContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		incorrect ++;
 	
 	} )
 
 	$(".q-five-a-two").on("click", function(){
-		$("#questionFiveContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionFiveContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		incorrect ++;
 	})
 
 	$(".q-five-a-three").on("click", function(){
-		$("#questionFiveContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionFiveContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		correct ++;
 	})
 
 	$(".q-five-a-four").on("click", function(){
-		$("#questionFiveContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionFiveContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		incorrect ++;
 	})
 
