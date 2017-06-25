@@ -51,21 +51,21 @@ run();
 	})
 
 	$(".q-one-a-four").on("click", function(){
-		$("#questionOneContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionOneContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		incorrect ++;
 	})
 
 
 //this is the second group of questions
 $(".q-two-a-one").on("click", function(){
-		$("#questionTwoContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionTwoContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		incorrect ++;
 		$("#wins").html("correct answer");
 	} )
 
 
 	$(".q-two-a-two").on("click", function(){
-		$("#questionTwoContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionTwoContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		incorrect ++;
 	})
 
@@ -81,7 +81,7 @@ $(".q-two-a-one").on("click", function(){
 
 //this is the third gruop of questions
 $(".q-three-a-one").on("click", function(){
-		$("#questionThreeContainer").html("<img src=./assets/images/answerrecorded.jpg height=80px width=100%>");
+		$("#questionThreeContainer").html("<img src=./assets/images/answerrecorded.JPG height=80px width=100%>");
 		incorrect ++;
 		$("#wins").html("correct answer");
 	} )
