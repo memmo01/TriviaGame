@@ -7,7 +7,7 @@ var questions = [{
 	question:"what is marios brothers name?",
 	answers: ["luigi","bowser","toad","yoshi"],
 	correctAnswer:"luigi",
-	image:"assets/images/luigi.PNG"
+	image:"./assets/images/luigi.PNG"
 },{
 	question:'who played the mario character in the 1993 movie "super mario bros"',
 	answers:["John Candy","Joe Pesci","John Leguizamo","Bob Hoskins"],
