@@ -7,7 +7,7 @@ var questions = [{
 	question:"what is marios brothers name?",
 	answers: ["luigi","bowser","toad","yoshi"],
 	correctAnswer:"luigi",
-	image:"/assets/images/luigi.png"
+	image:"assets/images/luigi.png"
 },{
 	question:'who played the mario character in the 1993 movie "super mario bros"',
 	answers:["John Candy","Joe Pesci","John Leguizamo","Bob Hoskins"],
@@ -32,7 +32,7 @@ var questions = [{
 	question:"where does mario live?",
 	answers:["Tokyo","New York City","Mushroom Kingdom","under a bridge"],
 	correctAnswer:"Mushroom Kingdom",
-	image:"assets/images/mushking.jpg"
+	image:"assets/images/mushkingg.jpg"
 
 
 }];
