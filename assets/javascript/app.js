@@ -32,7 +32,7 @@ var questions = [{
 	question:"where does mario live?",
 	answers:["Tokyo","New York City","Mushroom Kingdom","under a bridge"],
 	correctAnswer:"Mushroom Kingdom",
-	image:"assets/images/mushkingg.jpg"
+	image:"assets/images/mushkingg.JPG"
 
 
 }];
