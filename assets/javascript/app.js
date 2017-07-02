@@ -7,32 +7,32 @@ var questions = [{
 	question:"what is marios brothers name?",
 	answers: ["luigi","bowser","toad","yoshi"],
 	correctAnswer:"luigi",
-	image:"assets/images/luigi.PNG"
+	image:"assets/images/luigi.png"
 },{
 	question:'who played the mario character in the 1993 movie "super mario bros"',
 	answers:["John Candy","Joe Pesci","John Leguizamo","Bob Hoskins"],
 	correctAnswer:"Bob Hoskins",
-	image:"assets/images/bob.JPG"
+	image:"assets/images/bob.jpg"
 
 },{
 	question:"What was mario's original name?",
 	answers:["Starboy","Red-Plunger","Maurice","Jumpman"],
 	correctAnswer:"Jumpman",
-	image:"assets/images/jumpman.GIF"
+	image:"assets/images/jumpman.gif"
 
 },
 {
 	question:"What is nintendo's best selling mario game?",
 	answers:["super mario bros","mario kart 7","super mario galaxy","super mario 64"],
 	correctAnswer:"super mario bros",
-	image:"assets/images/mario1.PNG"
+	image:"assets/images/mario1.png"
 
 },
 {
 	question:"where does mario live?",
 	answers:["Tokyo","New York City","Mushroom Kingdom","under a bridge"],
 	correctAnswer:"Mushroom Kingdom",
-	image:"assets/images/mushking.JPG"
+	image:"assets/images/mushking.jpg"
 
 
 }];
