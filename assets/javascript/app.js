@@ -115,9 +115,9 @@ panel.append("<br><button id='start-over'>Start Over?</button>");
  		game.incorrect++;
  		clearInterval(timer);
 
- 		panel.html("<h2>Nope!</h2>");
+ 		panel.html("<h2>Incorrect!</h2>");
  		panel.append("<h3> The Correct Answer was: " + questions[game.currentQuestion].correctAnswer+"</h3>");
- 		panel.append("<img src='" + questions[game.currentQuestion].image +"'/>");
+ 		panel.append("<img src=" + questions[game.currentQuestion].image +" height='150px'/>");
 
  		if(game.currentQuestion === questions.length -1){
  			setTimeout(game.results, 3 *1000);
@@ -130,7 +130,7 @@ panel.append("<br><button id='start-over'>Start Over?</button>");
 		clearInterval(timer);
 		game.correct++;
 		panel.html("<h2>correct</h2>");
-		panel.append("<img src='"+questions[game.currentQuestion].image + "'/>");
+		panel.append("<img src="+questions[game.currentQuestion].image + " height='150px'/>");
 		
 		if(game.currentQuestion === questions.length -1){
 			setTimeout(game.results, 3 * 1000);
